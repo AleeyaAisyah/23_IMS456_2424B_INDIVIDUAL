@@ -1,0 +1,132 @@
+header{
+    width: auto;
+    height: 70px;
+    background-color:darkslategray;
+   
+}
+body{
+   background-image: url("images/bluediamond.jpg");
+}
+h1
+{
+    color:whitesmoke;
+    text-align: center;
+}
+article{
+    padding: 10px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+}
+.tableposition
+{
+    margin-left: 30%;
+    margin-right: auto;
+    margin-top: 20px;
+}
+table, tr, td, th
+{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+td
+{
+    padding: 5px;
+}
+
+th
+{
+    background-color: black;
+    color:aliceblue;
+}
+
+tr
+{
+    background-color:lightgrey;
+}
+
+tr:nth-child(odd)
+{
+    background-color:rgb(141, 167, 167);
+}
+
+tr:hover
+{
+    background-color:wheat;
+}
+
+.uitmkb {
+    background-color:rgb(141, 167, 167);
+    border-radius: 25px;
+    width:70%;
+    align-items: center;
+    margin-left: 15%;
+    margin-top: 20px;
+    margin-right: auto;
+}
+.textbox1{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 12px;
+    margin-left: 15%;
+    margin-right: 10%;
+    text-align: center;
+    color: black;
+   
+}
+.uitmmachang{
+    background-color:rgb(141, 167, 167);
+    border-radius: 25px;
+    width:70%;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: auto;
+
+}
+.textbox2{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    color: black;
+}
+.smkaf{
+    background-color:rgb(141, 167, 167);
+    border-radius: 25px;
+    width:70%;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: auto;
+}
+.textbox3{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    color: black;
+}
+img{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+footer
+{
+    width: 100%;
+    height: 50px;
+    background-color:darkslategray;
+    
+}
+.bodybg{
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
